@@ -1,3 +1,3 @@
-# python-algoritms
-Learning Algorithms in Python
-Learning Python. 
+# python-algorithms
+Learning Python and Algorithms with Zaid.
+
